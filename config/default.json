@@ -1,0 +1,6 @@
+{
+  "port": 4200,
+  "jwtSecret": "Alexander makes web application",
+  "mongoUri": "mongodb+srv://Alexandermo:qwerty1234=$@cluster0.yoprh.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:4200"
+}
